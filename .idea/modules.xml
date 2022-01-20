@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/custom-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/custom-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/custom-camera.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/custom-camera.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chareemCamera/custom-camera.chareemCamera.iml" filepath="$PROJECT_DIR$/.idea/modules/chareemCamera/custom-camera.chareemCamera.iml" />
+    </modules>
+  </component>
+</project>

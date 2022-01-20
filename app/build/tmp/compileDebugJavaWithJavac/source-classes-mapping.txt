@@ -1,0 +1,5 @@
+com/chareem/customCamera/sample/BuildConfig.java
+ com.chareem.customCamera.sample.BuildConfig
+com/chareem/customCamera/sample/MainActivity.java
+ com.chareem.customCamera.sample.MainActivity
+ com.chareem.customCamera.sample.MainActivity$1

@@ -1,0 +1,168 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.chareem.customCamera.sujaul"
+4    android:versionCode="11"
+5    android:versionName="1.0.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:4:5-79
+11-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:4:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:5:5-67
+12-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:5:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:6:5-65
+13-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:6:22-62
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:7:5-71
+14-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:7:22-68
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:8:5-79
+15-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:8:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:9:5-81
+16-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:9:22-78
+17    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+17-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:11:5-80
+17-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:11:22-77
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:12:5-81
+18-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:12:22-78
+19    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+19-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:13:5-82
+19-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:13:22-79
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:14:5-80
+20-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:14:22-77
+21
+22    <uses-feature
+22-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-24:35
+23        android:name="android.hardware.camera"
+23-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-47
+24        android:required="true" />
+24-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-32
+25    <uses-feature
+25-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:36
+26        android:name="android.hardware.camera.autofocus"
+26-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:9-57
+27        android:required="false" />
+27-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-33
+28    <uses-feature
+28-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-30:36
+29        android:name="android.hardware.telephony"
+29-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-50
+30        android:required="false" />
+30-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:9-33
+31    <uses-feature
+31-->[com.google.android.gms:play-services-maps:17.0.0] /home/karim/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+32        android:glEsVersion="0x00020000"
+32-->[com.google.android.gms:play-services-maps:17.0.0] /home/karim/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+33        android:required="true" />
+33-->[com.google.android.gms:play-services-maps:17.0.0] /home/karim/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+34
+35    <application
+35-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:16:5-32:19
+36        android:name="androidx.multidex.MultiDexApplication"
+37        android:allowBackup="true"
+37-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:17:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.5.0] /home/karim/.gradle/caches/transforms-2/files-2.1/1602505273d43f41d2f450ba7fa6ad4f/core-1.5.0/AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:icon="@mipmap/ic_camera"
+40-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:18:9-41
+41        android:label="@string/app_name"
+41-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:19:9-41
+42        android:supportsRtl="true"
+42-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:20:9-35
+43        android:testOnly="true"
+44        android:theme="@style/AppTheme" >
+44-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:21:9-40
+45
+46        <!-- android:icon="@mipmap/ic_launcher" -->
+47
+48        <activity android:name="com.chareem.customCamera.sample.MainActivity" >
+48-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:24:9-31:20
+48-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:24:19-78
+49            <intent-filter>
+49-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:25:13-30:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:26:17-69
+50-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:26:25-66
+51
+52                <category android:name="android.intent.category.DEFAULT" />
+52-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:28:17-76
+52-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:28:27-73
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:29:17-77
+53-->/home/karim/Downloads/Camera customs/custom-camera/app/src/main/AndroidManifest.xml:29:27-74
+54            </intent-filter>
+55        </activity>
+56        <activity
+56-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:9-36:54
+57            android:name="com.chareem.customCamera.sujaul.ui.camera.Camera1Activity"
+57-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-85
+58            android:screenOrientation="portrait"
+58-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-49
+59            android:theme="@style/ThemeFullscreen" />
+59-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-51
+60        <activity
+60-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-40:54
+61            android:name="com.chareem.customCamera.sujaul.ui.camera2.Camera2Activity"
+61-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-86
+62            android:screenOrientation="portrait"
+62-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-49
+63            android:theme="@style/ThemeFullscreen" />
+63-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-51
+64        <activity
+64-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:9-44:54
+65            android:name="com.chareem.customCamera.sujaul.ui.preview.PreviewActivity"
+65-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-86
+66            android:screenOrientation="portrait"
+66-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-49
+67            android:theme="@style/ThemeFullscreen" />
+67-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-51
+68        <activity
+68-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:9-48:59
+69            android:name="com.yalantis.ucrop.UCropActivity"
+69-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-60
+70            android:screenOrientation="portrait"
+70-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:13-49
+71            android:theme="@style/ThemeFullscreen.Crop" />
+71-->[:chareemCamera] /home/karim/Downloads/Camera customs/custom-camera/chareemCamera/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-56
+72        <activity
+72-->[com.karumi:dexter:6.0.1] /home/karim/.gradle/caches/transforms-2/files-2.1/6fbb2d12f06f44276458534d56a645ea/jetified-dexter-6.0.1/AndroidManifest.xml:27:9-29:72
+73            android:name="com.karumi.dexter.DexterActivity"
+73-->[com.karumi:dexter:6.0.1] /home/karim/.gradle/caches/transforms-2/files-2.1/6fbb2d12f06f44276458534d56a645ea/jetified-dexter-6.0.1/AndroidManifest.xml:28:13-60
+74            android:theme="@style/Dexter.Internal.Theme.Transparent" /> <!-- Needs to be explicitly declared on P+ -->
+74-->[com.karumi:dexter:6.0.1] /home/karim/.gradle/caches/transforms-2/files-2.1/6fbb2d12f06f44276458534d56a645ea/jetified-dexter-6.0.1/AndroidManifest.xml:29:13-69
+75        <uses-library
+75-->[com.google.android.gms:play-services-maps:17.0.0] /home/karim/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+76            android:name="org.apache.http.legacy"
+76-->[com.google.android.gms:play-services-maps:17.0.0] /home/karim/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+77            android:required="false" />
+77-->[com.google.android.gms:play-services-maps:17.0.0] /home/karim/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+78
+79        <activity
+79-->[com.google.android.gms:play-services-base:17.5.0] /home/karim/.gradle/caches/transforms-2/files-2.1/d5d6ecd679300559b5138853ca80de9d/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+80            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+80-->[com.google.android.gms:play-services-base:17.5.0] /home/karim/.gradle/caches/transforms-2/files-2.1/d5d6ecd679300559b5138853ca80de9d/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+81            android:exported="false"
+81-->[com.google.android.gms:play-services-base:17.5.0] /home/karim/.gradle/caches/transforms-2/files-2.1/d5d6ecd679300559b5138853ca80de9d/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+82            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+82-->[com.google.android.gms:play-services-base:17.5.0] /home/karim/.gradle/caches/transforms-2/files-2.1/d5d6ecd679300559b5138853ca80de9d/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+83
+84        <meta-data
+84-->[com.google.android.gms:play-services-basement:17.5.0] /home/karim/.gradle/caches/transforms-2/files-2.1/39d1366e937049de89a2759e1098ab75/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+85            android:name="com.google.android.gms.version"
+85-->[com.google.android.gms:play-services-basement:17.5.0] /home/karim/.gradle/caches/transforms-2/files-2.1/39d1366e937049de89a2759e1098ab75/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+86            android:value="@integer/google_play_services_version" />
+86-->[com.google.android.gms:play-services-basement:17.5.0] /home/karim/.gradle/caches/transforms-2/files-2.1/39d1366e937049de89a2759e1098ab75/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+87    </application>
+88
+89</manifest>
