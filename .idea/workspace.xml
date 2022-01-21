@@ -7,23 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73f64a89-3c9f-424e-a407-f4fc1ee86615" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/chareem/customCamera/sample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/chareem/customCamera/sample/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chareemCamera/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/chareemCamera/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/ChareemCamera.java" beforeDir="false" afterPath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/ChareemCamera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/controller/impl/Camera1Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/controller/impl/Camera1Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/controller/impl/Camera2Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/controller/impl/Camera2Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/controller/impl/Camera2ControllerAPI24.java" beforeDir="false" afterPath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/controller/impl/Camera2ControllerAPI24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/manager/impl/Camera1Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/manager/impl/Camera1Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/manager/impl/Camera2Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/manager/impl/Camera2Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/ui/BaseChareemActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/ui/BaseChareemActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/utils/CameraHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/chareemCamera/src/main/java/com/chareem/customCamera/sujaul/utils/CameraHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[OZPZTWLNLNZ97PHU]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
